@@ -27,7 +27,7 @@ Strong in design and integration with intuitive problem-solving skills. Proficie
 📫 You can reach me:  <a href="mailto:bshivakumar2121@gmail.com"><img src="https://img.shields.io/badge/gmail-%23DD0031.svg?&style=flat-square&logo=gmail&logoColor=white"/></a>
 
 
-
+![](https://activity-graph.herokuapp.com/graph?username=aakashdeveloper&theme=react-dark&area=true)
 
 
 
